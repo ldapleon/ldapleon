@@ -8,6 +8,10 @@ Since gaining my initial experiences in my apprenticeship, I have been fascinate
 
 ### Kubernetes Homelab
 
+Secure Kubernetes Cluster running on Talos Linux.
+
+https://github.com/ldapleon/homelab
+
 
 
 
