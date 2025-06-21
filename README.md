@@ -8,7 +8,7 @@ Since gaining my initial experiences in my apprenticeship, I have been fascinate
 
 ### Kubernetes Homelab
 
-Secure Kubernetes cluster running on bare-metal Talos Linux.
+Secure Kubernetes cluster running on a bare-metal installation of Talos Linux OS.
 
 https://github.com/ldapleon/homelab
 
